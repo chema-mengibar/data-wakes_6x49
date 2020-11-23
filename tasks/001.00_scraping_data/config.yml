@@ -1,0 +1,12 @@
+options:
+  increment-version: false
+params:
+  none: empty
+source:
+  dir: ~/
+  route: null
+target:
+  dir: task-001.00_captures/
+  file: capture_$ID$.txt
+  route: universe
+version: 1.0

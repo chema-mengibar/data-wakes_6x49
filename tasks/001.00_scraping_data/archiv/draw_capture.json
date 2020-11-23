@@ -1,0 +1,376 @@
+[{
+		"id": 6001,
+		"drawDate": 1546038000000,
+		"gameAmount": 58926969.00,
+		"profitDistribution": 29463484.50,
+		"superNumber": 4,
+		"superNumber2": null,
+		"extraNumber": null,
+		"jackpotNew": 15,
+		"jackpotCurrently": 13871840.90,
+		"winningNumbersRevision": 1,
+		"totalWinningsRevision": 1,
+		"oddsRevision": 1,
+		"oddsGenerationDate": 1546242904000,
+		"totalBetRevision": 1,
+		"lastDataChange": 1546242904000,
+		"currency": {
+			"id": 1,
+			"name": "EUR"
+		},
+
+		"gameType": {
+			"id": 2,
+			"name": "LOTTO 6aus49 Samstag"
+		},
+		"oddsCollection": [{
+				"id": 38653,
+				"winningClass": 1,
+				"winningClassDescription": {
+					"winningClassName": "6 Richtige + SZ",
+					"winningClassShortName": "6 + SZ",
+					"winningClassDescriptionPK": {
+						"winningClass": 1
+					}
+				},
+				"odds": 0.00,
+				"numberOfWinners": 0,
+				"jackpot": 13871840.90
+			}, {
+				"id": 38654,
+				"winningClass": 2,
+				"winningClassDescription": {
+					"winningClassName": "6 Richtige",
+					"winningClassShortName": "6",
+					"winningClassDescriptionPK": {
+						"winningClass": 2
+					}
+				},
+				"odds": 737931.70,
+				"numberOfWinners": 3,
+				"jackpot": 0.00
+			}, {
+				"id": 38655,
+				"winningClass": 3,
+				"winningClassDescription": {
+					"winningClassName": "5 Richtige + SZ",
+					"winningClassShortName": "5 + SZ",
+					"winningClassDescriptionPK": {
+						"winningClass": 3
+					}
+				},
+				"odds": 8322.50,
+				"numberOfWinners": 133,
+				"jackpot": 0.00
+			}, {
+				"id": 38656,
+				"winningClass": 4,
+				"winningClassDescription": {
+					"winningClassName": "5 Richtige",
+					"winningClassShortName": "5",
+					"winningClassDescriptionPK": {
+						"winningClass": 4
+					}
+				},
+				"odds": 3525.10,
+				"numberOfWinners": 942,
+				"jackpot": 0.00
+			}, {
+				"id": 38657,
+				"winningClass": 5,
+				"winningClassDescription": {
+					"winningClassName": "4 Richtige + SZ",
+					"winningClassShortName": "4 + SZ",
+					"winningClassDescriptionPK": {
+						"winningClass": 5
+					}
+				},
+				"odds": 190.20,
+				"numberOfWinners": 5818,
+				"jackpot": 0.00
+			}, {
+				"id": 38658,
+				"winningClass": 6,
+				"winningClassDescription": {
+					"winningClassName": "4 Richtige",
+					"winningClassShortName": "4",
+					"winningClassDescriptionPK": {
+						"winningClass": 6
+					}
+				},
+				"odds": 44.10,
+				"numberOfWinners": 50086,
+				"jackpot": 0.00
+			}, {
+				"id": 38659,
+				"winningClass": 7,
+				"winningClassDescription": {
+					"winningClassName": "3 Richtige + SZ",
+					"winningClassShortName": "3 + SZ",
+					"winningClassDescriptionPK": {
+						"winningClass": 7
+					}
+				},
+				"odds": 22.90,
+				"numberOfWinners": 96278,
+				"jackpot": 0.00
+			}, {
+				"id": 38660,
+				"winningClass": 8,
+				"winningClassDescription": {
+					"winningClassName": "3 Richtige",
+					"winningClassShortName": "3",
+					"winningClassDescriptionPK": {
+						"winningClass": 8
+					}
+				},
+				"odds": 11.20,
+				"numberOfWinners": 883483,
+				"jackpot": 0.00
+			}, {
+				"id": 38661,
+				"winningClass": 9,
+				"winningClassDescription": {
+					"winningClassName": "2 Richtige + SZ",
+					"winningClassShortName": "2 + SZ",
+					"winningClassDescriptionPK": {
+						"winningClass": 9
+					}
+				},
+				"odds": 5.00,
+				"numberOfWinners": 710841,
+				"jackpot": 0.00
+			}
+		],
+		"drawNumbersCollection": [{
+				"id": 36065,
+				"index": 1,
+				"drawNumber": 47
+			}, {
+				"id": 36066,
+				"index": 2,
+				"drawNumber": 4
+			}, {
+				"id": 36067,
+				"index": 3,
+				"drawNumber": 14
+			}, {
+				"id": 36068,
+				"index": 4,
+				"drawNumber": 25
+			}, {
+				"id": 36069,
+				"index": 5,
+				"drawNumber": 38
+			}, {
+				"id": 36070,
+				"index": 6,
+				"drawNumber": 44
+			}
+		],
+		"game77": {
+			"id": 7142,
+			"drawDate": 1546038000000,
+			"gameAmount": 13116897.50,
+			"numbers": "9433132",
+			"jackpotNew": 0,
+			"jackpotCurrently": 0.00,
+			"winningNumbersRevision": 1,
+			"oddsRevision": 1,
+			"oddsGenerationDate": 1546243503000,
+			"totalWinningsRevision": 1,
+			"totalBetRevision": 1,
+			"lastDataChange": 1546243503000,
+			"currency": {
+				"id": 1,
+				"name": "EUR"
+			},
+			"gameType": {
+				"id": 4,
+				"name": "SPIEL77 Samstag"
+			},
+			"oddsCollection": [{
+					"id": 84298,
+					"winningClass": 1,
+					"winningClassDescription": {
+						"winningClassName": "7 richtige Endziffern",
+						"winningClassShortName": "7 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 1
+						}
+					},
+					"numberOfWinners": 1,
+					"odds": 877777.00
+				}, {
+					"id": 84299,
+					"winningClass": 2,
+					"winningClassDescription": {
+						"winningClassName": "6 richtige Endziffern",
+						"winningClassShortName": "6 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 2
+						}
+					},
+					"numberOfWinners": 2,
+					"odds": 77777.00
+				}, {
+					"id": 84300,
+					"winningClass": 3,
+					"winningClassDescription": {
+						"winningClassName": "5 richtige Endziffern",
+						"winningClassShortName": "5 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 3
+						}
+					},
+					"numberOfWinners": 49,
+					"odds": 7777.00
+				}, {
+					"id": 84301,
+					"winningClass": 4,
+					"winningClassDescription": {
+						"winningClassName": "4 richtige Endziffern",
+						"winningClassShortName": "4 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 4
+						}
+					},
+					"numberOfWinners": 450,
+					"odds": 777.00
+				}, {
+					"id": 84302,
+					"winningClass": 5,
+					"winningClassDescription": {
+						"winningClassName": "3 richtige Endziffern",
+						"winningClassShortName": "3 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 5
+						}
+					},
+					"numberOfWinners": 4366,
+					"odds": 77.00
+				}, {
+					"id": 84303,
+					"winningClass": 6,
+					"winningClassDescription": {
+						"winningClassName": "2 richtige Endziffern",
+						"winningClassShortName": "2 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 6
+						}
+					},
+					"numberOfWinners": 43327,
+					"odds": 17.00
+				}, {
+					"id": 84304,
+					"winningClass": 7,
+					"winningClassDescription": {
+						"winningClassName": "1 richtige Endziffer",
+						"winningClassShortName": "1 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 7
+						}
+					},
+					"numberOfWinners": 430291,
+					"odds": 5.00
+				}
+			]
+		},
+		"super6": {
+			"id": 7143,
+			"drawDate": 1546038000000,
+			"gameAmount": 5529868.75,
+			"numbers": "897045",
+			"jackpotNew": null,
+			"jackpotCurrently": null,
+			"winningNumbersRevision": 1,
+			"oddsRevision": null,
+			"oddsGenerationDate": 1546242602000,
+			"totalWinningsRevision": 1,
+			"totalBetRevision": 1,
+			"lastDataChange": 1546242603000,
+			"currency": {
+				"id": 1,
+				"name": "EUR"
+			},
+			"gameType": {
+				"id": 6,
+				"name": "SUPER6 Samstag"
+			},
+			"oddsCollection": [{
+					"id": 84292,
+					"winningClass": 1,
+					"winningClassDescription": {
+						"winningClassName": "6 richtige Endziffern",
+						"winningClassShortName": "6 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 1
+						}
+					},
+					"numberOfWinners": 3,
+					"odds": 100000.00
+				}, {
+					"id": 84293,
+					"winningClass": 2,
+					"winningClassDescription": {
+						"winningClassName": "5 richtige Endziffern",
+						"winningClassShortName": "5 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 2
+						}
+					},
+					"numberOfWinners": 48,
+					"odds": 6666.00
+				}, {
+					"id": 84294,
+					"winningClass": 3,
+					"winningClassDescription": {
+						"winningClassName": "4 richtige Endziffern",
+						"winningClassShortName": "4 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 3
+						}
+					},
+					"numberOfWinners": 434,
+					"odds": 666.00
+				}, {
+					"id": 84295,
+					"winningClass": 4,
+					"winningClassDescription": {
+						"winningClassName": "3 richtige Endziffern",
+						"winningClassShortName": "3 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 4
+						}
+					},
+					"numberOfWinners": 4169,
+					"odds": 66.00
+				}, {
+					"id": 84296,
+					"winningClass": 5,
+					"winningClassDescription": {
+						"winningClassName": "2 richtige Endziffern",
+						"winningClassShortName": "2 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 5
+						}
+					},
+					"numberOfWinners": 46936,
+					"odds": 6.00
+				}, {
+					"id": 84297,
+					"winningClass": 6,
+					"winningClassDescription": {
+						"winningClassName": "1 richtige Endziffer",
+						"winningClassShortName": "1 Endz.",
+						"winningClassDescriptionPK": {
+							"winningClass": 6
+						}
+					},
+					"numberOfWinners": 452649,
+					"odds": 2.50
+				}
+			]
+		}
+	}
+]

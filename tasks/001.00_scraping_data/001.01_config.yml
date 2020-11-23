@@ -1,0 +1,15 @@
+options:
+  increment-version: false
+version: 1.0
+params:
+  none: empty
+source:
+  dir: task-001.00_captures/
+  file: 
+    - capture_2020.txt
+    - capture_2019.txt
+  route: universe
+target:
+  dir: task-001.01_draws/
+  file: draw_$ID$.json
+  route: universe

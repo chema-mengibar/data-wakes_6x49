@@ -1,0 +1,15 @@
+description: Example task
+version: 1.0
+params:
+  none: empty
+sources:
+  source_name:
+    dir: your_source_folder/
+    files: 
+    - your-file.json
+    route: master
+target:
+  dir: your_target_folder/
+  file: your-file_$TIME$.json
+  route: universe
+cmd: python 000.00_main.py param=Value
